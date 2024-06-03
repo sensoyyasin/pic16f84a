@@ -9,3 +9,5 @@
 # Ram Memory
 
 <img width="350" alt="Ekran Resmi 2024-01-17 12 15 06" src="https://github.com/sensoyyasin/pic16f84a/assets/73845925/789e15f8-7ebe-4f2e-b5fa-68fc42109703">
+
+Datasheet -> [pic.pdf](https://github.com/user-attachments/files/15538674/pic.pdf)
